@@ -35,11 +35,14 @@ Access attendance history.
 View personal attendance records.
 
 Check attendance percentage.
+
 📬 **Contact**
 
 🎥 YouTube Demo: https://youtu.be/d5QQB741tuo
 
 For queries or feedback, reach out to me at:
+
 📧 Email: murugan84894@gmail.com
+
 🔗 GitHub: https://github.com/Murugan4150/Web_Application_Project.git
 
